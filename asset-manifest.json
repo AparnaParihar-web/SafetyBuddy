@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SafetyBuddy/static/css/main.59968660.css",
-    "main.js": "/SafetyBuddy/static/js/main.69602984.js",
+    "main.js": "/SafetyBuddy/static/js/main.7fbad497.js",
     "static/media/logo.png": "/SafetyBuddy/static/media/logo.5d3897dd1c828bebbbf8.png",
     "static/media/profile.png": "/SafetyBuddy/static/media/profile.b855a8b928a208d97093.png",
     "static/media/dashboard.png": "/SafetyBuddy/static/media/dashboard.cac0d58af60d3dc0a957.png",
@@ -14,10 +14,10 @@
     "static/media/about.png": "/SafetyBuddy/static/media/about.bc2d8e517d09c9501d45.png",
     "index.html": "/SafetyBuddy/index.html",
     "main.59968660.css.map": "/SafetyBuddy/static/css/main.59968660.css.map",
-    "main.69602984.js.map": "/SafetyBuddy/static/js/main.69602984.js.map"
+    "main.7fbad497.js.map": "/SafetyBuddy/static/js/main.7fbad497.js.map"
   },
   "entrypoints": [
     "static/css/main.59968660.css",
-    "static/js/main.69602984.js"
+    "static/js/main.7fbad497.js"
   ]
 }
