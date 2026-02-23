@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.59968660.css",
-    "main.js": "/repository-name/static/js/main.eceb3fdb.js",
-    "static/media/logo.png": "/repository-name/static/media/logo.5d3897dd1c828bebbbf8.png",
-    "static/media/profile.png": "/repository-name/static/media/profile.b855a8b928a208d97093.png",
-    "static/media/dashboard.png": "/repository-name/static/media/dashboard.cac0d58af60d3dc0a957.png",
-    "static/media/sos.png": "/repository-name/static/media/sos.64e1f6a1dc32c68bda5e.png",
-    "static/media/add_contact.png": "/repository-name/static/media/add_contact.47cf71373b51fa5af494.png",
-    "static/media/onetap.png": "/repository-name/static/media/onetap.92e6834c064426d7a634.png",
-    "static/media/home.png": "/repository-name/static/media/home.5c97c300db8c26b007a2.png",
-    "static/media/rescue.png": "/repository-name/static/media/rescue.756058066193e299322b.png",
-    "static/media/alert.png": "/repository-name/static/media/alert.9576b9c10300a3cdd156.png",
-    "static/media/about.png": "/repository-name/static/media/about.bc2d8e517d09c9501d45.png",
-    "index.html": "/repository-name/index.html",
-    "main.59968660.css.map": "/repository-name/static/css/main.59968660.css.map",
-    "main.eceb3fdb.js.map": "/repository-name/static/js/main.eceb3fdb.js.map"
+    "main.css": "/safety-buddy/static/css/main.59968660.css",
+    "main.js": "/safety-buddy/static/js/main.ade5aeaf.js",
+    "static/media/logo.png": "/safety-buddy/static/media/logo.5d3897dd1c828bebbbf8.png",
+    "static/media/profile.png": "/safety-buddy/static/media/profile.b855a8b928a208d97093.png",
+    "static/media/dashboard.png": "/safety-buddy/static/media/dashboard.cac0d58af60d3dc0a957.png",
+    "static/media/sos.png": "/safety-buddy/static/media/sos.64e1f6a1dc32c68bda5e.png",
+    "static/media/add_contact.png": "/safety-buddy/static/media/add_contact.47cf71373b51fa5af494.png",
+    "static/media/onetap.png": "/safety-buddy/static/media/onetap.92e6834c064426d7a634.png",
+    "static/media/home.png": "/safety-buddy/static/media/home.5c97c300db8c26b007a2.png",
+    "static/media/rescue.png": "/safety-buddy/static/media/rescue.756058066193e299322b.png",
+    "static/media/alert.png": "/safety-buddy/static/media/alert.9576b9c10300a3cdd156.png",
+    "static/media/about.png": "/safety-buddy/static/media/about.bc2d8e517d09c9501d45.png",
+    "index.html": "/safety-buddy/index.html",
+    "main.59968660.css.map": "/safety-buddy/static/css/main.59968660.css.map",
+    "main.ade5aeaf.js.map": "/safety-buddy/static/js/main.ade5aeaf.js.map"
   },
   "entrypoints": [
     "static/css/main.59968660.css",
-    "static/js/main.eceb3fdb.js"
+    "static/js/main.ade5aeaf.js"
   ]
 }
